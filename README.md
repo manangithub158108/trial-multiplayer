@@ -1,2 +1,2 @@
-# trial-multiplayer
-this is a trial game 
+# p5.play-boilerplate
+Boiler plate for p5.play
